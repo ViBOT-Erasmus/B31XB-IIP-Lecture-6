@@ -2,11 +2,11 @@
 
 Guillaume Lemaitre - Fabrice Meriaudeau
 
-## Lecture 7 - Morphological Image Processing
+## Lecture 6 - Segmentation
 
 ### Abstract
 
-This lecture gives an overview about morphological image processing.
+This lecture gives an overview about segmentation in image processing.
 
 ### Execution of the ipython notebook
 
